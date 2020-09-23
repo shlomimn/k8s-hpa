@@ -1,5 +1,9 @@
 HPA - Exercise 
 ---------------
+### Pre requirements
+
+- Existing Cluster 
+- kubectl
 
 ### Step 01
     
